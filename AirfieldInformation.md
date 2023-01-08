@@ -11,6 +11,11 @@ Engineering & Technical Services may use vehicles to transport logistics from th
 LOGISTICS
 There are different types of logistics, listed below:
 
-- Ammo
+- Ammunition
 - Medical
 - Reactor fuel
+- Armoury Supplies
+- Facility Parts
+- Vending Machine Supplies
+- Food & Water
+- Textiles
