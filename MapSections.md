@@ -1,7 +1,7 @@
 # Map Sections
 
-FACILITY TRACTS
 _______________________________________
+FACILITY TRACTS
 
 Tract Echo - 01 (Entrance)
 
@@ -19,9 +19,8 @@ Tract Epsilon - 07 (Warheads Storage)
 
 Tract Mike - 00 (Reactor & Maintenance)
 
-
-SURFACE AREAS
 _______________________________________
+SURFACE AREAS
 
 SECURITY DEPARTMENT OUTPOST
 
