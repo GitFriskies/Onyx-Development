@@ -1,6 +1,7 @@
 # Map Sections
 
 FACILITY TRACTS
+_______________________________________
 
 Tract Echo - 01 (Entrance)
 
@@ -20,6 +21,7 @@ Tract Mike - 00 (Reactor & Maintenance)
 
 
 SURFACE AREAS
+_______________________________________
 
 SECURITY DEPARTMENT OUTPOST
 
