@@ -1,34 +1,16 @@
 # Onyx-Core-Mechanics
 
-FACILITY TRACTS
+Classified as Artyk Military Airfield to fit the lore and secrecy of the facility.
 
-Tract Echo - 01 (Entrance)
+BUILD DESCRIPTION
+Military cargo airplanes "land" on an airfield with a few hangers. The area is closed of with fences. There are also a few hangers with boxes (aka the logistics)
 
-Tract Phi - 02 (Personnel)
+FUNCTIONALITY DESCRIPTION
+Engineering & Technical Services may use vehicles to transport logistics from the airfield to the facility with vehicles. The airfield contains an infinite amount of logistics, however, E&TS personnel can only transport limit amounts of logistics. They can move these logistics to the facility (either with hand or smaller vehicles such as forklifts) and refill anything that requires logistics.
 
-Tract Sierra - 03 (Light Containment)
+LOGISTICS
+There are different types of logistics, listed below:
 
-Tract Delta - 04 (D Class Containment)
-
-Tract November - 05 (Heavy Containment)
-
-Tract Bravo - 06 (Biological & Chemical Containment)
-
-Tract Epsilon - 07 (Warheads Storage)
-
-Tract Mike - 00 (Reactor & Maintenance)
-
-
-SURFACE AREAS
-
-SECURITY DEPARTMENT OUTPOST
-
-MOBILE TASK FORCES OUTPOST
-
-GLOBAL OCCULT COALITION OUTPOST
-
-CHAOS INSURGENCY OUTPOST
-
-SERPENTS HAND OUTPOST
-
-SCP Foundation Logistics Airfield (Classified as Artyk Military Airfield)
+- Ammo
+- Medical
+- Reactor fuel
