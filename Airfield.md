@@ -1,4 +1,4 @@
-# Airfield Information
+# Airfield
 
 Classified as Artyk Military Airfield to fit the lore and secrecy of the facility.
 
