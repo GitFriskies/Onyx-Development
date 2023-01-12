@@ -12,9 +12,9 @@ Red Fox - A breach has begun and the anomaly has breached it's designated tract.
 
 Yellow Ember - A breach has begun; the anomaly is still within it's designated tract.
 
-Spear - Multiple hostiles; rogues/D Class/hostile GOIs.
+Hurricane - Multiple hostiles; rogues/D Class/hostile GOIs.
 
-Purple Cobra - An organized raid has begun on onyx.
+Spear - An organized raid has begun on onyx.
 
 
 ### Failsafes
