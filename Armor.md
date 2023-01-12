@@ -18,7 +18,7 @@ Armor affects your walk-speed. Higher level armor will provide less mobility.
 ---
 
 ### EQUIPMENT
-Equipment may affect visually or gameplay-wise.
+Equipment may affect visually or gameplay-wise. __This equipment goes on your helmet, so it is required to wear armor.__
 
 #### Gasmasks
 Gas masks will provide protection from certain gasses and SCPs. __However, certain SCPs/gasses do not provide protection and requires a hazmat suit or Beta 7 equipment.__
