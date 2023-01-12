@@ -16,7 +16,7 @@ The RFID replicator can replicate RFID tags and open doors once replicating an R
 
 #### RFID Scrambler
 
-The RFID scrambler can open any door in 3 seconds. This tool is given to all hostile personnel.
+The RFID scrambler can open any door with level 0/1/2/3 in 3 seconds. This tool is given to all hostile personnel.
 
 ### Access
 
