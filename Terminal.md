@@ -1,7 +1,7 @@
 # Terminal
 
 ### User
-username@onyx > 'input'
+````username@onyx > input````
 
 ### Commands
 #### Moderation Cmds
