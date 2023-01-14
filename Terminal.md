@@ -32,4 +32,4 @@ username@onyx > 'input'
 
 ````command: failsafe```` ````string: failsafe_name```` - Executes mentioned failsafe
 
-````command: clear```` ````variable: specified_log (terminal/chat/door/kill)```` - Clears mentioned logs
+````command: clear```` ````variable: specified_log```` - Clears mentioned logs (terminal/chat/door/kill)
