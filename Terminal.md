@@ -4,6 +4,7 @@
 username@onyx > 'input'
 
 ### Commands
+#### Moderation Cmds
 ````command: kick```` ````string: username```` - Kicks the mentioned player
 
 ````command: serverban```` ````string: username```` - Bans the mentioned player from the server
