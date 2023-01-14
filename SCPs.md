@@ -110,7 +110,7 @@
 
 - SCP 689 planned
 
-- SCP 037
+- SCP 037 planned
 
 - SCP 006 (Level 5) planned
 
