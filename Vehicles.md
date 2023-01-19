@@ -22,7 +22,7 @@ Each tire has its own health. If it is below a certain health (depending on whic
 
 A vehicle can either be manually despawned or if one of the events have occured:
 - The vehicle's bodyhealth has been destroyed. (respawning after 4 minutes)
-- No one has entered the driver seat for the past 20 minutes.
+- No one has entered the driver seat for the past 15 minutes.
 
 ---
 
