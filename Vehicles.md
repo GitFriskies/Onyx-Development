@@ -22,7 +22,7 @@ Each tire has its own health. If it is below a certain health (depending on whic
 
 A vehicle can either be manually despawned or if one of the events have occured:
 - The vehicle's bodyhealth has been destroyed. (respawning after 4 minutes)
-- The vehicle is unlocked and no one has entered the driver seat for the past 15 minutes.
+- The vehicle is unlocked and no one has entered the driver seat for the past 10 minutes.
 
 #### Locking
 A vehicle may be locked by the driver. Have the vehicle locked and no one can enter any seat. If the driver leaves while the vehicle is locked, the vehicle will be automatically unlocked.
