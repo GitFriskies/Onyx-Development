@@ -31,7 +31,19 @@ A vehicle may be locked by the driver. Have the vehicle locked and no one can en
 
 ### Ground Vehicles
 
-#### 
+#### 1. M1151A1 Humvee (Unarmed)
+
+#### 2. M1151A1 Humvee (Turret)
+
+#### 3. 1992 Jeep
+
+#### 4. Leopard 2A7A1 Tank
+
+#### 5. BTR-80 APC
+
+#### 6. Semi-Truck (logistics)
+
+#### 7. Forklift (logistics)
 
 ### Air Vehicles
 
