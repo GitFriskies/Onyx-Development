@@ -4,7 +4,6 @@
 
 ### Description
 
-
 The surface is a large area, so vehicles may be utilized by certain teams. Vehicles are teamlocked, ranklocked and have a certain limit to how many are in-game. They also have hull-health and tire-health. Certain vehicles may also be equipped with weaponry.
 
 ---
